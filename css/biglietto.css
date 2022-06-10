@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    background: url(../img/foto.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.attivazione{
+    position: absolute;
+    top: 73%;
+    left: 2%;
+    font-size: 25px;
+}
+
+.emissione{
+    position: absolute;
+    top: 83%;
+    left: 2%;
+    font-size: 18px;
+}
+
+.orologio{
+    position: absolute;
+    top: 8%;
+    left: 2%;
+    font-size: 30px;
+}
+
+video{
+    position: absolute;
+    top: 42%;
+    left: 0%;    
+}
